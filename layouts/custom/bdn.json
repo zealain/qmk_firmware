@@ -1,0 +1,33 @@
+{
+  "documentation": "\"This file is a QMK Configurator export. You can import this at <https://config.qmk.fm>. It can also be used directly with QMK's source code.\n\nTo setup your QMK environment check out the tutorial: <https://docs.qmk.fm/#/newbs>\n\nYou can convert this file to a keymap.c using this command: `qmk json2c {keymap}`\n\nYou can compile this keymap using this command: `qmk compile {keymap}`\"\n",
+  "notes": "",
+  "version": 1,
+  "keyboard": "keebio/bdn9/rev2",
+  "keymap": "bdn",
+  "layout": "LAYOUT",
+  "layers": [
+    [
+      "KC_ESC",
+      "KC_MPLY",
+      "KC_MUTE",
+      "MO(1)",
+      "KC_UP",
+      "RM_TOGG",
+      "KC_LEFT",
+      "KC_DOWN",
+      "KC_RGHT"
+    ],
+    [
+      "UG_SATU",
+      "KC_NO",
+      "RM_NEXT",
+      "KC_TRNS",
+      "UG_VALD",
+      "UG_VALU",
+      "UG_SATD",
+      "UG_HUED",
+      "UG_HUEU"
+    ]
+  ],
+  "author": ""
+}
