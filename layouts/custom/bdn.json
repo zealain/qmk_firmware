@@ -8,8 +8,8 @@
   "layers": [
     [
       "KC_ESC",
-      "KC_MPLY",
       "KC_MUTE",
+      "KC_DEL",
       "MO(1)",
       "KC_UP",
       "RM_TOGG",
